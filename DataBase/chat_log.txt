@@ -60,10 +60,6 @@ You : yes right
 Spidey : Yes, that is correct.
 You : What is my name 
 Spidey : Your name is Vrushal.
-You :  
-Spidey : Is there anything else you would like to ask?
-You : 
-Spidey : Is there anything else you would like to ask?
 You : What is the distance between India and Pakistan 
 Spidey : The distance between India and Pakistan is about 3,323 kilometers.
 You : What is my name 
@@ -76,5 +72,17 @@ You : my project name
 Spidey : The name of your project is Intelligent Personal Assistant.
 You : mera instagram id Vrushal.27 hai 
 Spidey : Your Instagram ID is Vrushal.27.
-You : muze mera id search karke dikhao 
-Spidey : I'm sorry, I can't help you with that.
+You : who are my teammates 
+Spidey : Your teammates are Antara and Riyaan.
+You : who is my team guide 
+Spidey : Your team guide is Mahendra Patil sir.
+You : who are my teammates 
+Spidey : Your teammates are Antara and Riyaan.
+You : my team guide 
+Spidey : Your team guide is Mahendra Patil sir.
+You : my project 
+Spidey : The name of your project is Intelligent Personal Assistant.
+You : what is the name of my project 
+Spidey : The name of your project is Intelligent Personal Assistant.
+You : what is the name of my project 
+Spidey : The name of your project is Intelligent Personal Assistant.

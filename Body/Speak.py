@@ -1,5 +1,20 @@
 import pyttsx3
 
+
+def Speak(audio):
+
+    engine = pyttsx3.init('sapi5')
+    voices = engine.getProperty('voices')
+#   print(voices[1].id)
+    engine.setProperty('voice', voices[1].id)
+    print("")
+    print(f"You : {audio}.")
+    print("")
+    engine.say(audio)
+    engine.runAndWait()
+
+
+'''
 def Speak(Text):
     engine = pyttsx3.init("sapi5")
     voices = engine.getProperty('voices')
@@ -11,8 +26,10 @@ def Speak(Text):
     engine.say(Text)
     engine.runAndWait()
 
+'''
+
     
-    '''
+'''
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select

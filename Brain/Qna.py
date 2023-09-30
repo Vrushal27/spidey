@@ -18,7 +18,7 @@ def QuestionAnswer(question,chat_log = None):
     if chat_log is None:
         chat_log = chat_log_template
 
-    prompt = f'{chat_log}Question : {question}\nAnswer : '
+    prompt = f'{chat_log}You : {question}\nSpidey : '
     response = completion.create(
         model = "text-davinci-002",
         prompt=prompt,
@@ -28,7 +28,7 @@ def QuestionAnswer(question,chat_log = None):
         frequency_penalty = 0,
         presence_penalty = 0)
     answer = response.choices[0].text.strip()
-    chat_log_template_update = chat_log_template + f"\nQuestion : {question} \nAnswer : {answer}"
+    chat_log_template_update = chat_log_template + f"\nYou : {question} \nSpidey : {answer}"
     Filelog = open("DataBase\qna_log.txt","w")
     FileLog.write(chat_log_template_update)
     FileLog.close()
