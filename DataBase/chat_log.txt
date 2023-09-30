@@ -1,11 +1,4 @@
-You : mere teammate ke names Antara and Riyaan hai 
-Spidey : Your teammates' names are Antara and Riyaan.
-You : remember my teammates name 
-Spidey : Sure, I'll remember your teammates' names.
-You : tumhara name Spidey hai ye bhi yaad rakho 
-Spidey : My name is Spidey too, remember that.
-You : mere teammates kon kon hai? 
-Spidey : Your teammates are Antara and Riyaan.
+Spidey : Your teammates are Antara and Riyaan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 Spidey : Nice to meet you, Vrushal!
 You : remember my name 
 Spidey : Sure, I'll remember your name Vrushal.
@@ -21,7 +14,6 @@ You : mere teammates kon kon hai?
 Spidey : Your teammates are Antara and Riyaan.
 You : What is my name 
 Spidey : Your name is Vrushal.
-You :  
 Spidey : What would you like me to do?
 You : name one person in my team 
 Spidey : Your teammate is Antara.
@@ -31,3 +23,38 @@ You : And the name of one of my teammates
 Spidey : Your teammate is Riyaan.
 You : and the name of the second one 
 Spidey : Your teammate is Antara.
+You : What is my name 
+Spidey : Your name is Vrushal.
+You : who are my teammates 
+Spidey : Your teammates are Antara and Riyaan.
+You : tumhara name spidy hai 
+Spidey : Yes, my name is Spidey.
+You : aaj se tumhara name spidy hai yaad rakhana 
+Spidey : Yes, my name is Spidy from now on.
+You : whats your name 
+Spidey : My name is Spidey.
+You : aaj se tumhara name spidy hai spell is s p i d y 
+Spidey : Yes, my name is Spidy from now on. 
+Spidey : Is there anything else you would like to ask?
+You : remember ur name is spidy 
+Spidey : Yes, I remember my name is Spidy.
+You : my name?? 
+Spidey : Your name is Vrushal.
+You : who is antara 
+Spidey : Antara is one of your teammates.
+You : What is my name 
+Spidey : Your name is Vrushal.
+You : who is ryan 
+Spidey : Riyaan is one of your teammates.
+You : antara is a girl 
+Spidey : Yes, Antara is a girl.
+You : and riyaan is a boy me also a boy 
+Spidey : Yes, Riyaan is a boy and you are also a boy.
+You : our guid is mahendra patil sir 
+Spidey : Our guide is Mahendra Patil sir.
+You : remember that 
+Spidey : Yes, I remember that.
+You : mere project ka name intilligent personal assistant hai 
+Spidey : The name of your project is Intelligent Personal Assistant.
+You : yes right 
+Spidey : Yes, that is correct.
