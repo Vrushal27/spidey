@@ -31,9 +31,11 @@ def MainExecution():
 
         Data = MicExecution()
         Data = str(Data)
- 
+        
+        if len(Data)<=3:
+            pass
 
-        if "what is" in Data or "where is" in Data or "question" in Data or "answer" in Data:
+        elif "what is" in Data or "where is" in Data or "question" in Data or "answer" in Data:
             Reply = QuestionAnswer(Data)
         else:
 

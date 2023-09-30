@@ -66,3 +66,15 @@ You :
 Spidey : Is there anything else you would like to ask?
 You : What is the distance between India and Pakistan 
 Spidey : The distance between India and Pakistan is about 3,323 kilometers.
+You : What is my name 
+Spidey : Your name is Vrushal.
+You : who is my team guide 
+Spidey : Your team guide is Mahendra Patil sir.
+You : who is in my team 
+Spidey : Your teammates are Antara and Riyaan.
+You : my project name 
+Spidey : The name of your project is Intelligent Personal Assistant.
+You : mera instagram id Vrushal.27 hai 
+Spidey : Your Instagram ID is Vrushal.27.
+You : muze mera id search karke dikhao 
+Spidey : I'm sorry, I can't help you with that.
