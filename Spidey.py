@@ -21,6 +21,7 @@ ClapDetect(kk=1)
 
 
 
+
 def MainExecution():
     Speak("Hello sir")
     Speak("I'm Spidy, i'm Ready To Assist You Sir...!!")
