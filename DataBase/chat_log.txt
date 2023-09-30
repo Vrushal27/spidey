@@ -1,4 +1,4 @@
-Spidey : Your teammates are Antara and Riyaan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Spidey : Your teammates are Antara and Riyaan.
 Spidey : Nice to meet you, Vrushal!
 You : remember my name 
 Spidey : Sure, I'll remember your name Vrushal.
@@ -58,3 +58,11 @@ You : mere project ka name intilligent personal assistant hai
 Spidey : The name of your project is Intelligent Personal Assistant.
 You : yes right 
 Spidey : Yes, that is correct.
+You : What is my name 
+Spidey : Your name is Vrushal.
+You :  
+Spidey : Is there anything else you would like to ask?
+You : 
+Spidey : Is there anything else you would like to ask?
+You : What is the distance between India and Pakistan 
+Spidey : The distance between India and Pakistan is about 3,323 kilometers.

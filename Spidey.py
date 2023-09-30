@@ -1,4 +1,5 @@
 from Brain.AIBrain import ReplyBrain
+from Brain.Qna import QuestionAnswer
 from Body.Listen import MicExecution
 print(">> Starting the Spidey : wait for some Second.")
 from Features.Clap import Tester
@@ -30,8 +31,14 @@ def MainExecution():
 
         Data = MicExecution()
         Data = str(Data)
-        Reply = ReplyBrain(Data)
-        Speak(Reply)
+ 
+
+        if "what is" in Data or "where is" in Data or "question" in Data or "answer" in Data:
+            Reply = QuestionAnswer(Data)
+        else:
+
+            Reply = ReplyBrain(Data)
+            Speak(Reply)
 MainExecution()
 
 
