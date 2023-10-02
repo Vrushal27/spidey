@@ -1,9 +1,48 @@
-Spidey : Your teammates are Antara and Riyaan.
-Spidey : Nice to meet you, Vrushal!
-You : remember my name 
-Spidey : Sure, I'll remember your name Vrushal.
-You : mera naam kya hia? 
-Spidey : Your name is Vrushal.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
 You : mere teammate ke names Antara and Riyaan hai 
 Spidey : Your teammates' names are Antara and Riyaan.
 You : remember my teammates name 
@@ -86,3 +125,63 @@ You : what is the name of my project
 Spidey : The name of your project is Intelligent Personal Assistant.
 You : what is the name of my project 
 Spidey : The name of your project is Intelligent Personal Assistant.
+You : what is the name of my project 
+Spidey : The name of your project is Intelligent Personal Assistant.
+You : my brother's name is bhavesh 
+Spidey : Your brother's name is Bhavesh.
+You : what is my brother's name 
+Spidey : Your brother's name is Bhavesh.
+You : what are my teammates names 
+Spidey : Your teammates' names are Antara and Riyaan.
+You : who is my team leader 
+Spidey : Your team leader is Mahendra Patil sir.
+You : and name of my project 
+Spidey : The name of your project is Intelligent Personal Assistant.
+You : What is my name 
+Spidey : Your name is Vrushal.
+You : who is antara 
+Spidey : Antara is one of your teammates.
+You : How many total teammates do I have? 
+Spidey : You have two teammates.
+You : name of my college is atharva college 
+Spidey : The name of your college is Atharva College.
+You : The name of my college is Atharva College of Engineering 
+Spidey : The name of your college is Atharva College of Engineering.
+You : remember this 
+Spidey : Yes, I remember this.
+You : what is the name of my college 
+Spidey : The name of your college is Atharva College of Engineering.
+You : my college is in malad 
+Spidey : Your college is in Malad.
+You : where is my college 
+Spidey : Your college is in Malad.
+You : i live in bhayandar 
+Spidey : You live in Bhayandar.
+You : Write an essay on myself 
+Spidey : Hello, my name is Vrushal and I am a student at Atharva College of Engineering. I am from Bhayandar, which is a suburb of Mumbai. I am currently pursuing a degree in Computer Science and Engineering. I am a very hardworking and determined student,
+You : What is my name 
+Spidey : Your name is Vrushal.
+You : what is the name of my project 
+Spidey : The name of your project is Intelligent Personal Assistant.
+You : who is my team guide 
+Spidey : Your team guide is Mahendra Patil sir.
+You : and who are my teammates 
+Spidey : Your teammates are Antara and Riyaan.
+You : who is antara 
+Spidey : Antara is one of your teammates.
+You : and who is ryan 
+Spidey : Riyaan is one of your teammates.
+You : write on myself 
+Spidey : Hello, my name is Vrushal and I am a student at Atharva College of Engineering. I am from Bhayandar, which is a suburb of Mumbai. I am currently pursuing a degree in Computer Science and Engineering. I am a very hardworking and determined student, who
+You : where do i live 
+Spidey : You live in Bhayandar.
+You : what is my brother's name 
+Spidey : Your brother's name is Bhavesh.
+You : name of my college 
+Spidey : The name of your college is Atharva College of Engineering.
+You : My name 
+Spidey : Your name is Vrushal.
+You : write on myself 
+Spidey : Hello, my name is Vrushal and I am a student at Atharva College of Engineering. I am from Bhayandar, which is a suburb of Mumbai. I am currently pursuing a degree in Computer Science and Engineering. I am a very hardworking and determined student,
+You : ok spider 
+Spidey : Is there anything else you would like to ask?

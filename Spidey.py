@@ -78,6 +78,10 @@ def MainExecution():
             webbrowser.open("https://web.snapchat.com") 
             Speak('opening')        
     
+        
+        elif 'open youtube' in Data:
+            webbrowser.open("https://www.youtube.com") 
+            Speak('opening')  
 
         
         else:
