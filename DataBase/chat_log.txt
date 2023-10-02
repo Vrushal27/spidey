@@ -1,12 +1,6 @@
 .
 .
 .
-..
-.
-.
-.
-.
-.
 .
 ..
 .
@@ -185,3 +179,9 @@ You : write on myself
 Spidey : Hello, my name is Vrushal and I am a student at Atharva College of Engineering. I am from Bhayandar, which is a suburb of Mumbai. I am currently pursuing a degree in Computer Science and Engineering. I am a very hardworking and determined student,
 You : ok spider 
 Spidey : Is there anything else you would like to ask?
+You : who is salman khan 
+Spidey : Salman Khan is an Indian actor, producer, television personality, and philanthropist.
+You : who is shahrukh khan 
+Spidey : Shahrukh Khan is an Indian actor, producer, television personality, and philanthropist.
+You : Why is this null error coming? 
+Spidey : I'm sorry, I don't know why that error is coming up.
