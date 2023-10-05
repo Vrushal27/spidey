@@ -26,7 +26,6 @@
 .
 .
 .
-.
 ..
 .
 .
@@ -192,3 +191,5 @@ You : Prince
 Spidey : I'm sorry, I don't understand what you mean by "Prince." Can you please clarify?
 You : prince is my friend 
 Spidey : I'm sorry, I don't understand what you mean by "prince is my friend." Can you please clarify?
+You : what is the name of my group guide 
+Spidey : Your group guide's name is Mahendra Patil sir.
