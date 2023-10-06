@@ -8,25 +8,43 @@
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 ..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 .
 .
 .
@@ -176,20 +194,68 @@ You : who is salman khan
 Spidey : Salman Khan is an Indian actor, producer, television personality, and philanthropist.
 You : who is shahrukh khan 
 Spidey : Shahrukh Khan is an Indian actor, producer, television personality, and philanthropist.
-You : Why is this null error coming? 
-Spidey : I'm sorry, I don't know why that error is coming up.
-
-You : Wire 
-Spidey : I'm sorry, I don't understand what you mean by "wire." Can you please clarify?
-You : prince mera dost hai 
-Spidey : I'm sorry, I don't understand what you mean by "prince mera dost hai." Can you please clarify?
-You : mera dost kon hai 
-Spidey : I'm sorry, I don't understand what you mean by "mera dost kon hai." Can you please clarify?
-You : who is the prince 
-Spidey : I'm sorry, I don't understand what you mean by "the prince." Can you please clarify?
-You : Prince 
-Spidey : I'm sorry, I don't understand what you mean by "Prince." Can you please clarify?
-You : prince is my friend 
-Spidey : I'm sorry, I don't understand what you mean by "prince is my friend." Can you please clarify?
 You : what is the name of my group guide 
 Spidey : Your group guide's name is Mahendra Patil sir.
+You : How are you 
+Spidey : I'm doing well, thanks for asking!
+You : i'm bored 
+Spidey : I'm sorry to hear that you're bored. Maybe there's something we can do together to help you out?
+You : Tell me a joke 
+Spidey : Why did the chicken cross the road?
+
+To get to the other side!
+You : ha ha 
+Spidey : I'm glad you found that funny!
+You : Stop 
+Spidey : Sorry, I didn't mean to bore you.
+You : who is my project guide 
+Spidey : Your project guide is Mahendra Patil sir.
+You : prince is my friend 
+Spidey : I'm sorry, I don't know who Prince is.
+You : Prince studies in my college 
+Spidey : I'm sorry, I don't know who Prince is.
+You : prince is my college friend 
+Spidey : I'm sorry, I don't know who Prince is.
+You : the ocean is my friend 
+Spidey : I'm sorry, I don't know what you're talking about.
+You : the ocean is my friend 
+Spidey : I'm sorry, I don't know what you're talking about.
+You : Sagar is my friend 
+Spidey : I'm sorry, I don't know who Sagar is.
+You : Stop 
+Spidey : Sorry, I didn't mean to bore you.
+You : Princess My Colleague 
+Spidey : I'm sorry, I don't know who Princess is.
+You : my friend's name is prince 
+Spidey : I'm sorry, I don't know who Prince is.
+You : Remember my friend's name is Prince 
+Spidey : I'm sorry, I don't know who Prince is.
+You : peace in the world 
+Spidey : I'm sorry, I don't know what you're talking about.
+You : mera nam vrushal hai 
+Spidey : Yes, your name is Vrushal.
+
+You : mera surname Bhurkud hai 
+Spidey : Yes, your surname is Bhurkud.
+You : mere papa ka nam Durdhan hai 
+Spidey : Yes, your father's name is Durdhan.
+You : mere dost ka nam sagar hai 
+Spidey : Yes, your friend's name is Sagar.
+You : mera ek or dost hai uska nam prince hai 
+Spidey : Yes, you have another friend whose name is Prince.
+You : mere mummy ka name Vandana hai 
+Spidey : Yes, your mother's name is Vandana.
+You : mere baare me details batao 
+Spidey : Hello, my name is Vrushal and I am a student at Atharva College of Engineering. I am from Bhayandar, which is a suburb of Mumbai. I am currently pursuing a degree in Computer Science and Engineering. I am a very hardworking and determined student,
+You : mere family ke baare me batao 
+Spidey : Your family consists of your father Durdhan, your mother Vandana, your brother Bhavesh, and your friends Sagar and Prince.
+You : mere jo teammates hai vo bhi mere dost hai 
+Spidey : Your teammates are also your friends.
+You : mere kitne dost hua 
+Spidey : You have five friends - your father, mother, brother, and two teammates.
+You : mere father mother mera bhai ye family members hai mere dost nahi 
+Spidey : Your father, mother, and brother are your family members, not your friends.
+You : yes 
+Spidey : Is there anything else you would like to ask?
+You : mere family me kon kon hai 
+Spidey : Your family consists of your father Durdhan, your mother Vandana, and your brother Bhavesh.

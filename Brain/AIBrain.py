@@ -11,7 +11,7 @@ load_dotenv()
 completion = openai.Completion()
 
 def ReplyBrain(question,chat_log = None):
-    FileLog = open("DataBase\chat_log.txt","r+")
+    FileLog = open("DataBase\\chat_log.txt","r+")
     chat_log_template = FileLog.read()
     # FileLog.close()
     
@@ -29,7 +29,7 @@ def ReplyBrain(question,chat_log = None):
         presence_penalty = 0)
     answer = response.choices[0].text.strip()
     chat_log_template_update = chat_log_template + f"\nYou : {question} \nSpidey : {answer}"
-    Filelog = open("DataBase\chat_log.txt","w")
+    Filelog = open("DataBase\\chat_log.txt","w")
     FileLog.write(chat_log_template_update)
     FileLog.close()
     return answer    
